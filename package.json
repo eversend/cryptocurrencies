@@ -4,7 +4,8 @@
     "description": "A JSON list of all the cryptocurrency symbols",
     "license": "MIT",
     "repository": "crypti/cryptocurrencies",
-    "contributors": [{
+    "contributors": [
+        {
             "name": "Michael Wuergler",
             "email": "senjudev@gmail.com",
             "url": "github.com/radiovisual"
