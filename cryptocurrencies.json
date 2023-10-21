@@ -3758,5 +3758,6 @@
     "VTAG": "veriTAG Token",
     "WBTC*": "wBTC",
     "OPET": "ÕpetFoundation",
-    "AVAX": "Avalanche"
+    "AVAX": "Avalanche",
+	"BUSD": "Binance USD",
 }
