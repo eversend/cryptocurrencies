@@ -3759,5 +3759,9 @@
     "WBTC*": "wBTC",
     "OPET": "ÕpetFoundation",
     "AVAX": "Avalanche",
-    "BUSD": "Binance USD"
+    "BUSD": "Binance USD",
+	"PXD": "PayPal USD",
+	"PYUSD": "PayPal USD",
+    "CXD": "Celo USD",
+	"XUSD": "Celo USD"
 }
