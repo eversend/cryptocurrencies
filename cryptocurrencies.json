@@ -649,7 +649,6 @@
     "CTX": "CarTaxi",
     "CV": "CarVertical",
     "CARAT": "Carats Token",
-    "CUSD": "Carbon",
     "CARBON": "Carboncoin",
     "ADA": "Cardano",
     "CARD": "Cardstack",
@@ -3763,5 +3762,5 @@
     "PXD": "PayPal USD",
     "PYUSD": "PayPal USD",
     "CXD": "Celo USD",
-    "XUSD": "Celo USD"
+    "CUSD": "Celo USD"
 }
