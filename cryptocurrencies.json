@@ -3764,7 +3764,10 @@
     "CXD": "Celo USD",
     "CUSD": "Celo USD",
     "MAT": "Matic",
+	"MATIC":"Matic",
     "SHI": "Shibu Inu",
+	"SHIB":"Shibu Inu",
     "OPE": "Optimism",
+	"OP": "Optimism",
     "WIF":"Wif (dogwifhat)"
 }
