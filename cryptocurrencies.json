@@ -3763,8 +3763,8 @@
     "PYUSD": "PayPal USD",
     "CXD": "Celo USD",
     "CUSD": "Celo USD",
-	"MAT": "Matic",
-	"SHI": "Shibu Inu",
-	"OPE": "Optimism",
-	"WIF":"Wif (dogwifhat)"
+    "MAT": "Matic",
+    "SHI": "Shibu Inu",
+    "OPE": "Optimism",
+    "WIF":"Wif (dogwifhat)"
 }
